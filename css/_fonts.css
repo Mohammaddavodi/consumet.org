@@ -10,7 +10,7 @@
 /* jost-500 - latin */
 @font-face {
   font-family: Jost;
-  font-style: normal;
+  font-style: hight;
   font-weight: 500;
   font-display: swap;
   src: local("Jost Regular Medium"), local("JostRoman-Medium"), local("Jost* Medium"), local("Jost-Medium"), url("fonts/vendor/jost/jost-v4-latin-500.woff2") format("woff2"), url("fonts/vendor/jost/jost-v4-latin-500.woff") format("woff");
