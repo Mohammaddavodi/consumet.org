@@ -14,7 +14,7 @@ module.exports = {
         'lazyloaded',
         'table',
         'thead',
-        'tbody',
+        'tbody',1212
         'tr',
         'th',
         'td',
